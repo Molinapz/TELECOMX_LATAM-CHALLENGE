@@ -1,0 +1,23 @@
+﻿#### Diccionario de datos
+
+- `customerID`: numero de identificacion unico de cada cliente
+- `Churn`: si el cliente dejo o no la empresa
+- `gender`: genero del cliente
+- `SeniorCitizen`: indica si el cliente tiene 65 anos o mas
+- `Partner`: si el cliente tiene pareja
+- `Dependents`: si el cliente tiene dependientes
+- `tenure`: meses de permanencia del cliente
+- `PhoneService`: suscripcion al servicio telefonico
+- `MultipleLines`: suscripcion a mas de una linea telefonica
+- `InternetService`: tipo de servicio de internet
+- `OnlineSecurity`: suscripcion adicional de seguridad en linea
+- `OnlineBackup`: suscripcion adicional de respaldo en linea
+- `DeviceProtection`: suscripcion adicional de proteccion del dispositivo
+- `TechSupport`: suscripcion adicional de soporte tecnico
+- `StreamingTV`: suscripcion a television por streaming
+- `StreamingMovies`: suscripcion a peliculas por streaming
+- `Contract`: tipo de contrato
+- `PaperlessBilling`: indica si la factura es digital
+- `PaymentMethod`: metodo de pago
+- `Charges.Monthly`: cargo mensual
+- `Charges.Total`: gasto total acumulado
