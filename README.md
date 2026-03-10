@@ -37,8 +37,6 @@ Identificar patrones asociados a la cancelacion del servicio y dejar un notebook
 
 ## Fuente de datos
 
-El notebook intenta cargar los datos desde la URL raw del challenge original:
 
 - [TelecomX_Data.json](https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/main/TelecomX_Data.json)
 
-Si la carga remota falla, puedes colocar una copia local del archivo `TelecomX_Data.json` en la misma carpeta del notebook.
